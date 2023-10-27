@@ -1,0 +1,11 @@
+.ant-select-selection {
+    background-color: var(--cardWhite);
+  }
+.ant-table-cell{
+    background-color: var(--cardWhite);
+    color:var(--tableTextColor);
+}
+
+.ant-table-thead{
+    background-color: var(--tableHead);
+}
